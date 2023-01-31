@@ -9,11 +9,11 @@ API URL: http://localhost:8050/graphql
 mutation {
   createUser(
     data: {
-      firstname: "Rani"
-      lastname: "Sawa"
-      nickname: "R S"
-      email: "rani@gmail.com"
-      password: "my_secret"
+      firstname: "User3"
+      lastname: "Harly"
+      nickname: "U3_H"
+      email: "u3h@gmail.com"
+      password: "very_secret"
     }
   ) {
     id
